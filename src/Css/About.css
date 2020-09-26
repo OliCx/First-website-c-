@@ -1,0 +1,30 @@
+.about {
+  text-align: center;
+}
+
+.about--container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.box--one {
+  display: flex;
+  justify-content: center;
+  background-color: black;
+  width: 200px;
+  color: white;
+  border: 5px solid green;
+  padding: 10px;
+  margin: 30px;
+  height: 2000px;
+}
+
+.box--two {
+  background-color: black;
+  width: 200px;
+  color: white;
+  border: 5px solid green;
+  padding: 5px;
+  margin: 30px;
+}
